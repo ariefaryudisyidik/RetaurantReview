@@ -1,4 +1,4 @@
-package id.co.restauranreviewtest
+package com.ariefaryudisyidik.restauranreview
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
@@ -17,6 +17,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("id.co.restauranreviewtest", appContext.packageName)
+        assertEquals("com.ariefaryudisyidik.restaurantreview", appContext.packageName)
     }
 }

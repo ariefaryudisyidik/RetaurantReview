@@ -1,4 +1,4 @@
-package id.co.restauranreviewtest
+package com.ariefaryudisyidik.restauranreview
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

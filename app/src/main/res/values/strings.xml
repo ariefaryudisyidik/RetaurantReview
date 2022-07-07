@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">RestauranReviewTest</string>
-    <string name="string_to_inject">This is a string will inject as well</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Submit</string>
+    <string name="empty_review">Review can\'t be empty</string>
+    <string name="restaurant_picture_id">https://restaurant-api.dicoding.dev/images/large/%s</string>
 </resources>
